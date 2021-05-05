@@ -4,6 +4,7 @@
 
 ## Cheat sheets
 [Marko Goricki](https://github.com/mgoricki/orclapex-ig-cheat-sheet)
+
 [Stefan Dobre](https://github.com/stefandobre/Interactive-Grid-Cheat-Sheet)
 
 
