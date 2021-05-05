@@ -27,3 +27,7 @@
 
 ## Oracle Documentation for interactiveGrid widget
 [Docs](https://docs.oracle.com/en/database/oracle/application-express/20.2/aexjs/interactiveGrid.html)
+
+
+## Simplified Diagram
+![Preview gif](IG Diagram.png)
