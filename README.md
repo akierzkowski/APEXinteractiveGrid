@@ -30,4 +30,4 @@
 
 
 ## Simplified Diagram
-![Preview gif](IG Diagram.png)
+![Preview gif](/IG Diagram.png)
