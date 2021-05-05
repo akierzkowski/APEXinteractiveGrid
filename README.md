@@ -2,7 +2,7 @@
 [Fancy Charts and Dashboards](https://www.youtube.com/watch?v=2rZAIR_0tNg&)
 
 
-##Cheat sheets
+## Cheat sheets
 [Marko Goricki](https://github.com/mgoricki/orclapex-ig-cheat-sheet)
 [Stefan Dobre](https://github.com/stefandobre/Interactive-Grid-Cheat-Sheet)
 
